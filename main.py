@@ -1,0 +1,3 @@
+from utils.prospectin.keltio import add_all_persons_with_linkedin_in_prospectin
+
+add_all_persons_with_linkedin_in_prospectin()
