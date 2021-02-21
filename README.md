@@ -1,11 +1,11 @@
-# Synchronisation des contacts pipedrive dans pipedrive
+# Synchronisation des contacts pipedrive dans prospectin
 
 ## 1. Prérequis: Sur son pc
 - Avoir python 3 d'installé (normalement présent sur tous les nouveaux PC)
 
 ## 2. Prérequis: Positionner ses données de configuration
 
-Dans le fichier `conf.py` situé dans le dossier `utils` remplacez les valeur XXXXXX par les bonnes valeurs
+Dans le fichier `conf.py` situé dans le dossier `utils` remplacez les valeurs XXXXXXXX par les bonnes valeurs
 
 Le contenu du fichier ressemble initialement à cela
 ```python
